@@ -1,5 +1,5 @@
 import Counter from "./Components/Counter";
-import { Provider } from "react-redux";
+import { Provider } from 'react-redux';
 import store from "./Redux/Store";
 
 
