@@ -14,9 +14,9 @@ export default function App() {
         </h1>
 
         <div className="max-w-md mx-auto mt-10 space-y-5">
-          <Counter />
+          {/* <Counter /> */}
           <HooksCounter id='1' />
-          <Counter />
+          {/* <Counter /> */}
         </div>
       </div>
     </Provider>
